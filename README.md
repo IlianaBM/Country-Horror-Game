@@ -12,6 +12,9 @@ If I don't answer, it means I am away from my laptop or phone and will respond a
 Now for the game...
 
 The goal is to create a game to include in our portfolios. This includes 3D models, concept art, code, the game itself, and more! Because this is being created 
-for our portfolios, I heavily recommend keeping track of all the progress you make. This includes sketches, topology, color analysis, and more.
+for our portfolios. To help keep track, I will be casually checking in to see how progress is going. This includes sketches, topology, color analysis, and more.
 
-When uploading anything, please... wip
+This read me will change when the game is close to being done, so that employers can read this and learn more about your work. 
+
+But other then that, thank you for reading, and stay tuned on the discord! 
+xoxo, Iliana
