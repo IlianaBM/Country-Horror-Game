@@ -11,10 +11,17 @@ If I don't answer, it means I am away from my laptop or phone and will respond a
 
 Now for the game...
 
-The goal is to create a game to include in our portfolios. This includes 3D models, concept art, code, the game itself, and more! Because this is being created 
+The goal is to create a game to include in our portfolios. This includes 3D models, concept art, code, the game itself, and more! This is being created 
 for our portfolios. To help keep track, I will be casually checking in to see how progress is going. This includes sketches, topology, color analysis, and more.
 
-This read me will change when the game is close to being done, so that employers can read this and learn more about your work. 
+Naming conventions will be the following:
+  [AssetTypePrefix]_[AssetName]_[ArtistInicials]_[versions#ifneeded]
+ Example:
+   CA_Truck_IM, which means Concept Art, Truck, Iliana Martinez
+
+Please find the appropriate folder where you need to insert your work.
+
+This README will change when the game is close to being done, so that employers can read this and learn more about your work. 
 
 But other then that, thank you for reading, and stay tuned on the discord! 
 xoxo, Iliana
