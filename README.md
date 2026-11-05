@@ -15,7 +15,7 @@ The goal is to create a game to include in our portfolios. This includes 3D mode
 for our portfolios. To help keep track, I will be casually checking in to see how progress is going. This includes sketches, topology, color analysis, and more.
 
 Naming conventions will be the following:
-  [AssetTypePrefix]_[AssetName]_[ArtistInicials]_[versions#ifneeded]
+  [AssetTypePrefix] _ [AssetName] _ [ArtistInicials] _ [versions#ifneeded]
  Example:
    CA_Truck_IM, which means Concept Art, Truck, Iliana Martinez
 
